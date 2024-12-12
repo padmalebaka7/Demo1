@@ -2,3 +2,4 @@ hi all
 this is demo class
 kubernates
 Jenkins
+EC2
