@@ -3,4 +3,3 @@ this is demo class
 kubernates
 Jenkins
 EC2
-AWS
